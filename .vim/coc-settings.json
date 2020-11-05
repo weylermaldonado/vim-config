@@ -1,0 +1,12 @@
+{
+  "html.filetypes": ["html", "handlebars", "htmldjango"],
+  "html.format.enable": true,
+  "html.format.preserveNewLines": false,
+  "coc.preferences.formatOnSaveFiletypes": ["go", "rust", "typescript", "html", "handlebars", "json"],
+  "javascript.validate.enable": true,
+  "javascript.suggestionActions.enabled": false,
+  "coc.source.emoji.filetypes": ["gitcommit", "javascript", "go", "txt"],
+  "eslint.filetypes": ["javascript", "javascriptreact"],
+  "eslint.packageManager": "npm",
+  "eslint.autoFixOnSave": true
+}

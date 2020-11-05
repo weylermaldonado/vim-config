@@ -1,5 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
-let g:netrw_dirhist_1='/home/weyler/Documentos/Trabajo/backend/parrot-backend/src/modules'
-let g:netrw_dirhist_2='/home/weyler/Documentos/Trabajo/backend/parrot-backend/src/modules/branding'
-let g:netrw_dirhist_3='/home/weyler'
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/weyler/Documentos/Trabajo/backend/parrot-backend/src/modules/events'
+let g:netrw_dirhist_2='/home/weyler/Documentos/Trabajo/backend/parrot-backend'
+let g:netrw_dirhist_3='/home/weyler/.vim'
+let g:netrw_dirhist_4='/home/weyler'
+let g:netrw_dirhist_5='/home/weyler/.vim'
+let g:netrw_dirhist_6='/home/weyler/Documentos/Trabajo/backend/parrot-backend'
+let g:netrw_dirhist_7='/home/weyler'
+let g:netrw_dirhist_8='/home/weyler/Documentos/Trabajo/backend/parrot-backend'
